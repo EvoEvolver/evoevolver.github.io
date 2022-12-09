@@ -1,0 +1,1 @@
+.voice-box{height:.1rem}.attention-box{animation:AnimationName 4s ease infinite;background:linear-gradient(270deg,hsla(0,0%,100%,0),rgba(69,196,255,.1));background-size:500% 500%;z-index:-3}@keyframes AnimationName{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}
